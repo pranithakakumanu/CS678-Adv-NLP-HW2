@@ -1,0 +1,46 @@
+INFO:root:Creating Config from file: ./gentpool/pool/agentVT/agent.yaml
+INFO:root:Starting to load configuration from ./gentpool/pool/agentVT/agent.yaml
+INFO:root:Successfully loaded configuration from ./gentpool/pool/agentVT/agent.yaml
+INFO:root:--------------------
+INFO:root:[green]Welcome to Gentopia!
+INFO:root:--------------------
+INFO:root:[green]User: 
+INFO:root:agentVT is thinking...
+INFO:root:Done
+INFO:root:[blue]agentVT: 
+INFO:root:{"name":"google_search", "arguments":{
+  "query": "NLP papers .pdf"
+}}
+
+INFO:root:Calling function: google_search ...
+INFO:root:Done
+INFO:root:--------------------
+INFO:root:SearchResult(url=https://research.google.com/pubs/archive/35671.pdf, title=Natural Language Processing (almost) from Scratch, description=by R Collobert · Cited by 9972 — In this section, we briefly introduce four classical NLP tasks on which we will benchmark our architectures within this paper: Part-Of-Speech tagging (POS), ...)
+
+SearchResult(url=https://arxiv.org/pdf/1708.02709, title=Recent Trends in Deep Learning Based Natural Language ..., description=by T Young · 2017 · Cited by 3602 — Recently, a variety of model designs and methods have blossomed in the context of natural language processing (NLP). In this paper, we review significant deep ...)
+
+SearchResult(url=https://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf, title=Natural Language Processing (Almost) from Scratch, description=by R Collobert · 2011 · Cited by 9972 — In this section, we briefly introduce four standard NLP tasks on which we will benchmark our architectures within this paper: Part-Of-Speech tagging (POS), ...)
+
+SearchResult(url=https://www.researchgate.net/publication/319164243_Natural_Language_Processing_State_of_The_Art_Current_Trends_and_Challenges, title=Natural Language Processing: State of The Art, Current ..., description=Oct 11, 2023 — The paper distinguishes four phases by discussing different levels of NLP and components of Natural Language Generation (NLG) followed by ...)
+
+SearchResult(url=https://www.academia.edu/44731476/Top_NLP_Research_articles_of_2020_International_Journal_on_Natural_Language_Computing_IJNLC_, title=Top NLP Research articles of 2020 - International Journal ..., description=These papers provide a breadth of information about NLP (Natural language processing ... Download Free PDF View PDF · CUESTA YULIED FERNANDA ... Journal on Natural ...)
+
+SearchResult(url=https://www.researchgate.net/publication/309210149_Natural_Language_Processing_A_Review, title=(PDF) Natural Language Processing: A Review, description=Oct 18, 2016 — This paper reviews the literature on NLP. It also covers or gives a hint about the history of NLP. It is based on document analysis. This ...)
+
+SearchResult(url=https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3878634, title=Natural Language Processing for Text and Speech ..., description=by SK Behera · 2020 — The NLP is an exploration and application zone that inspects how PCs are utilized to perceive and control regular language text or discourse to ...)
+
+SearchResult(url=https://web.stanford.edu/class/cs293/papers/litman_nlp_teaching_learning.pdf, title=Natural Language Processing for Enhancing Teaching and ..., description=by D Litman · 2016 · Cited by 99 — This paper will orga- nize and give an overview of research in this area, focusing on opportunities as well as challenges. Natural language processing (NLP) has ...)
+
+SearchResult(url=https://github.com/llhthinker/NLP-Papers, title=llhthinker/NLP-Papers: Natural Language Processing Papers, description=Faruqui and Dyer - 2014 - Improving vector space word representations using multilingual correlation [pdf] [note]; Maaten and Hinton - 2008 - Visualizing ...)
+
+SearchResult(url=https://link.springer.com/article/10.1007/s11042-022-13428-4, title=Natural language processing: state of the art, current trends ..., description=by D Khurana · 2023 · Cited by 831 — In this paper, we first distinguish four phases by discussing different levels of NLP and components of Natural Language Generation followed by ...)
+
+SearchResult(url=https://academic.oup.com/jamia/article-pdf/18/5/544/5962687/18-5-544.pdf, title=Natural language processing: an introduction, description=by PM Nadkarni · 2011 · Cited by 1637 — http://nlp. stanford.edu/wmanning/papers/unlexicalized-parsing.pdf (accessed 20 Jul 2011). 16. Quinlan JR. C4.5: Programs for Machine Learning. San Mateo ...)
+
+SearchResult(url=https://aclanthology.org/www.mt-archive.info/Zampolli-1994-Sparck-Jones.pdf, title=Natural language processing: a historical review, description=by KS Jones · Cited by 255 — This paper reviews natural language processing (NLP) from the late 1940's to the present, seeking to identify its successive trends as these reflect ...)
+INFO:root:--------------------
+INFO:root:agentVT is thinking...
+INFO:root:Done
+INFO:root:[blue]agentVT: 
+INFO:root:
+[red]Bye!
